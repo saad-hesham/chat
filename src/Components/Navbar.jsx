@@ -10,7 +10,7 @@ const Navbar = ()=>{
 
     return(
         <div className="navbar">
-            <span className="logo">Lama chat</span>
+            <span className="logo">React chat app</span>
             <div className="user">
                 <img src="https://images.pexels.com/photos/6615806/pexels-photo-6615806.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load" alt =""/>
                 <span>{currentUser.displayName}</span>

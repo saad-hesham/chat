@@ -61,7 +61,7 @@ console.log(err)
     return(
         <div className="form-container">
         <div className="form-wraper">
-        <span className="logo">Lama chat </span>
+        <span className="logo"> React chat app </span>
         <span className="title">Register</span>
             <form onSubmit={handleSubmit}>
             <input type="text" placeholder="display name"/>

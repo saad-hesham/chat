@@ -25,7 +25,7 @@ const Login = ()=>{
     return(
         <div className="form-container">
         <div className="form-wraper">
-        <span className="logo">Lama chat </span>
+        <span className="logo">React chat app </span>
         <span className="title">Login</span>
             <form onSubmit={handleSubmit}>
    
